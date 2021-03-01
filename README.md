@@ -1,4 +1,4 @@
 # CS50
-CS50 exercises
+CS50 Exercises
 
 My first steps in learning computer programming.
