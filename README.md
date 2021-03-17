@@ -3,8 +3,8 @@ CS50 Exercises
 
 My first steps in learning computer programming.
 
-Week 0 Scratch;
-Week 1 C;
+Week 0 Scratch |
+Week 1 C |
 Week 2 Arrays;
 Week 3 Algorithms;
 Week 4 Memory;
