@@ -1,7 +1,0 @@
-Most common:
-
-%c - char
-%f - floating point value
-%i - integer
-%li - long
-%s - string
